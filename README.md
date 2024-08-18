@@ -1,6 +1,17 @@
 # STA380-Exercises
 
-Group Members: Ashley Hattendorf, Maria Lasala, Quinlan O'Connell, Neal Makwana
+This is a collection of problems I completed with a group as part of my Intro to Machine Learning Course.
+Some topics covered include:
+- Image Classification with Neural Networks
+- Storytelling through PCA, Clustering, etc
+- Market Segmentation Practice
+- Rule Mining
+- Data Wrangling
+
+Original problems and datasets can be found here: https://github.com/jgscott/STA380/tree/master/exercises
+
+
+## Description of Files Included ##
 
 STA380-Problem Set.ipynb:
 ** MASTER FILE WITH PROBLEMS 1, 3, 5, 6 AND LOCATIONS OF ALL OTHER PROBLEMS **
