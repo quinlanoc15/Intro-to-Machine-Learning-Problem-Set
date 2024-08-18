@@ -10,6 +10,8 @@ Some topics covered include:
 
 Original problems and datasets can be found here: https://github.com/jgscott/STA380/tree/master/exercises
 
+Some problems are completed in Python, and some are in R. ENJOY WHOEVER IS SEEING THIS
+
 
 ## Description of Files Included ##
 
